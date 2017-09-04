@@ -1,0 +1,10 @@
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\bin\Debug\MyImProcessing.exe.config
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\bin\Debug\MyImProcessing.exe
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\bin\Debug\MyImProcessing.pdb
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\obj\Debug\MyImProcessing.csprojResolveAssemblyReference.cache
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\obj\Debug\MyImProcessing.Form1.resources
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\obj\Debug\MyImProcessing.Properties.Resources.resources
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\obj\Debug\MyImProcessing.csproj.GenerateResource.Cache
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\obj\Debug\MyImProcessing.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\obj\Debug\MyImProcessing.exe
+C:\Users\rohit\Documents\Visual Studio 2017\Projects\MyImProcessing\MyImProcessing\obj\Debug\MyImProcessing.pdb
